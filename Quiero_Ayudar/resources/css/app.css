@@ -1,0 +1,23 @@
+footer p{
+    color: #B7AD99;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    
+}
+
+footer p a{
+    max-height: 10px;
+}
+
+.social-network img{
+    max-width: 100%;
+    height: auto;
+   -webkit-filter: grayscale(1);
+    filter: grayscale(1);
+}
+
+.social-network:hover img {
+    -webkit-filter: grayscale(0);
+            filter: grayscale(0);
+ } 	 	
+  
